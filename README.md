@@ -80,6 +80,11 @@ g++ main.cpp -std=c++17 -o explorer
 ```bash
 ./explorer
 ```
+#### 5. To view a list of all available commands :
+
+```bash
+help
+```
 
 
 
