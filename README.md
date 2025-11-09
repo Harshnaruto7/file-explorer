@@ -50,7 +50,7 @@ Before running the File Explorer CLI, make sure your system satisfies the follow
 
 ---
 
-## 🛠️ Installation & Compilation
+## Installation & Compilation
 
 Follow these steps to set up and run the File Explorer CLI:
 
